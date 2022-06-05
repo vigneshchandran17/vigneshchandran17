@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Vignesh Chandran](http://www.vigneshchandran.com/), a passionate self-taught full stack web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Vignesh](http://www.vigneshchandran.com/), a passionate self-taught full stack web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -63,7 +63,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vigneshchandran17&show_icons=true&theme=gotham" alt="vigneshchandran" />
 
 
 
