@@ -1,14 +1,14 @@
 ### hey there 
-<a href="https://www.instagram.com/vigneshchandran/">
+<a href="https://www.instagram.com/vigneshchandran17/">
   <img align="left" alt="Vignesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.com/channels/733027681184251937/733198478565572650">
   <img align="left" alt="Vignesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/vigneshchandran">
-  <img align="left" alt="Vignesh Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/vigneshchandr11">
+  <img align="left" alt="Vignesh  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vigneshchandran/">
+<a href="https://www.linkedin.com/in/vignesh-chandran-0a2821152/">
   <img align="left" alt="Vignesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
